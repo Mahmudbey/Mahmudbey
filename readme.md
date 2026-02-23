@@ -36,5 +36,3 @@ I bridge the gap between pure mathematics and computational implementation throu
 ### 📫 Contact Me
 * **Email:** bmahmudbey@gmail.com
 * **Location:** Tashkent, Uzbekistan
-
-![Mahmudbey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmudbey&show_icons=true&theme=radical)
