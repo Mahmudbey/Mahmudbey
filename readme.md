@@ -21,7 +21,7 @@ I bridge the gap between pure mathematics and computational implementation throu
 * **Technical Communication:** Instructing in **LaTeX** for academic typesetting and project structures.
 
 ### 🛠 Tech Stack
-* **Languages:** Python, C#, MATLAB, C++.
+* **Languages:** Python, C#, MATLAB.
 * **Frameworks/Tools:** Git, SQL (DBMS), Numerical PDE Solvers, LaTeX.
 
 ---
