@@ -28,7 +28,7 @@ I bridge the gap between pure mathematics and computational implementation throu
 
 ### 📊 Publication & Impact
 * **ORCID:** [0000-0002-3326-4390](https://orcid.org/0000-0002-3326-4390)
-* **Google Scholar:** [Bobokandov Makhmud](https://scholar.google.com/citations?user=z6S6mE0AAAAJ) 
+* **Google Scholar:** [Bobokandov Makhmud](https://scholar.google.com/citations?user=wd7-ywQAAAAJ&hl=en) 
 * **Twitter/X:** [@makhmudbey](https://x.com/makhmudbey)
 
 ---
